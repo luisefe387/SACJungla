@@ -1,0 +1,70 @@
+[OPTIONS]
+Compiled file=ayudaSACJungla.chm
+Contents file=Table of Contents.hhc
+Default topic=Bienvenido.html
+Display compile progress=No
+Language=0x240a Español (Colombia)
+
+
+[FILES]
+Bienvenido.html
+FAQ.html
+Menu Compras.html
+Menu Inventario.html
+Menu Utilidades.html
+Menu Ventas.html
+Anular Documentos.html
+Catalogo de Articulos con Foto.html
+Configurar Recordatorios.html
+Consultar Articulos.html
+Consultar Bancos.html
+Consultar Clientes.html
+Consultar Cotizaciones.html
+Consultar Linea de Articulos.html
+Consultar Proveedores.html
+Control Inventarios.html
+Devoluciones de Clientes (Nota Crédito).html
+Devoluciones de Proveedores (Nota debito).html
+Entrada de Articulos al Inventario.html
+Imprimir Documentos.html
+Kardex Electrónico para Articulos.html
+Mostrar Balance General.html
+Mostrar Estado de resultados.html
+Nuevo Forma de Pago (Cliente).html
+Pagar Abonar una CXP ya registrada.html
+Realizar Inventario.html
+Registar Alertas de Vencimiento.html
+Registar Venta de Articulos.html
+Registrar Anticipo a Proveedores.html
+Registrar Articulo.html
+Registrar Banco.html
+Registrar Caja Recaudos.html
+Registrar Cliente.html
+Registrar Compra de Articulos.html
+Registrar Cotizaciones.html
+Registrar Linea de Articulos.html
+Registrar Medio de Pago Proveedor.html
+Registrar Orden de Compra de Articulos.html
+Registrar Proveedor.html
+Registrar Tipo Cliente.html
+Registrar un egreso gasto con pago inmediato.html
+Registrar una CXP para pago futuro.html
+Registrar Unidad de Medida.html
+Registrar Vendedor.html
+Reportar Compras.html
+Reporte de Anticipos a Proveedores.html
+Reporte de Cartera Pendiente.html
+Reporte de Cuentas X Pagar.html
+Reporte de Egresos (Gastos y Pagos).html
+Reporte de Entrada de Artículos.html
+Reporte de Notas Crédito.html
+Reporte de Notas Débito.html
+Reporte de Ordenes a Compras.html
+Reporte de Recibos de Caja.html
+Reporte de Salida de Artículos.html
+Reporte de Ventas.html
+Salida de Articulos al Inventario.html
+Ver Recordatorios.html
+
+[INFOTYPES]
+

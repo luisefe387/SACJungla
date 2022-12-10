@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
+	<classpathentry kind="lib" path="C:/Users/Luisefe387/Desktop/ESTRUCTURA DEL CD/Código/SACJungla/SERVIDORGLASS/glassfishv3/glassfish/modules/gf-client.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Luisefe387/Desktop/ESTRUCTURA DEL CD/Código/SACJungla/lib/jcalendar-1.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Luisefe387/Desktop/ESTRUCTURA DEL CD/Código/SACJungla/lib/AutoCompleter.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER">
+		<attributes>
+			<attribute name="owner.project.facets" value="java"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/Luisefe387/Desktop/ESTRUCTURA DEL CD/Código/SACJungla/lib/commons-beanutils-1.8.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Luisefe387/Desktop/ESTRUCTURA DEL CD/Código/SACJungla/lib/commons-collections-3.2.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Luisefe387/Desktop/ESTRUCTURA DEL CD/Código/SACJungla/lib/commons-digester-2.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Luisefe387/Desktop/ESTRUCTURA DEL CD/Código/SACJungla/lib/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Luisefe387/Desktop/ESTRUCTURA DEL CD/Código/SACJungla/lib/itext-pdfa-5.5.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Luisefe387/Desktop/ESTRUCTURA DEL CD/Código/SACJungla/lib/itextpdf-5.5.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Luisefe387/Desktop/ESTRUCTURA DEL CD/Código/SACJungla/lib/jasperreports-6.0.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Luisefe387/Desktop/ESTRUCTURA DEL CD/Código/SACJungla/lib/jxl.jar"/>
+	<classpathentry kind="output" path="build/classes"/>
+</classpath>

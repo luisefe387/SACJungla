@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<persistence version="2.0" xmlns="http://java.sun.com/xml/ns/persistence" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://java.sun.com/xml/ns/persistence http://java.sun.com/xml/ns/persistence/persistence_2_0.xsd">
+	<persistence-unit name="SACJungla">
+		<jta-data-source>jdbc/myDatasource</jta-data-source>
+		<class>co.com.jungla.sac.persistencia.entidades.Cliente</class>
+		<class>co.com.jungla.sac.persistencia.entidades.Proveedor</class>
+		<class>co.com.jungla.sac.persistencia.entidades.TipoCliente</class>
+		<class>co.com.jungla.sac.persistencia.entidades.MedioPagoProv</class>
+		<class>co.com.jungla.sac.persistencia.entidades.Persona</class>
+		<class>co.com.jungla.sac.persistencia.entidades.Departamento</class>
+		<class>co.com.jungla.sac.persistencia.entidades.Municipio</class>
+		<class>co.com.jungla.sac.persistencia.entidades.Articulo</class>
+		<class>co.com.jungla.sac.persistencia.entidades.LineaArticulos</class>
+		<class>co.com.jungla.sac.persistencia.entidades.UnidadMedida</class>
+		<class>co.com.jungla.sac.persistencia.entidades.DetalleCompra</class>
+		<class>co.com.jungla.sac.persistencia.entidades.CompraArticulos</class>
+		<class>co.com.jungla.sac.persistencia.entidades.OrdenCompraArticulos</class>
+		<class>co.com.jungla.sac.persistencia.entidades.DetalleOrdenCompra</class>
+		<class>co.com.jungla.sac.persistencia.entidades.PagoAbonoCxP</class>
+		<class>co.com.jungla.sac.persistencia.entidades.CuentaXPagar</class>
+		<class>co.com.jungla.sac.persistencia.entidades.Egreso</class>
+		<class>co.com.jungla.sac.persistencia.entidades.AnticipoProveedor</class>
+		<class>co.com.jungla.sac.persistencia.entidades.DevolucionProveedor</class>
+		<class>co.com.jungla.sac.persistencia.entidades.KardexElectronico</class>
+		<class>co.com.jungla.sac.persistencia.entidades.ControlInventario</class>
+		<class>co.com.jungla.sac.persistencia.entidades.EntradaOSalidaArticulo</class>
+		<class>co.com.jungla.sac.persistencia.entidades.Banco</class>
+		<class>co.com.jungla.sac.persistencia.entidades.MedioPagoCliente</class>
+		<class>co.com.jungla.sac.persistencia.entidades.FormaPagoCliente</class>
+		<class>co.com.jungla.sac.persistencia.entidades.VentaArticulos</class>
+		<class>co.com.jungla.sac.persistencia.entidades.DetalleVenta</class>
+		<class>co.com.jungla.sac.persistencia.entidades.DetalleEntradaOSalida</class>
+		<class>co.com.jungla.sac.persistencia.entidades.Vendedor</class>
+		<class>co.com.jungla.sac.persistencia.entidades.ReciboCaja</class>
+		<class>co.com.jungla.sac.persistencia.entidades.DetalleDevolucionCliente</class>
+		<class>co.com.jungla.sac.persistencia.entidades.AnticipoCliente</class>
+		<class>co.com.jungla.sac.persistencia.entidades.DevolucionCliente</class>
+		<class>co.com.jungla.sac.persistencia.entidades.DetalleDevolucionProveedor</class>
+		<class>co.com.jungla.sac.persistencia.entidades.Contabilizacion</class>
+		<class>co.com.jungla.sac.persistencia.entidades.Cotizacion</class>
+		<class>co.com.jungla.sac.persistencia.entidades.DetalleCotizacion</class>
+		<class>co.com.jungla.sac.persistencia.entidades.AlertaVencimiento</class>
+		<class>co.com.jungla.sac.persistencia.entidades.Recordatorio</class>
+		<properties>
+			<property name="eclipselink.ddl-generation" value="create-tables"/>
+		</properties>
+	</persistence-unit>
+</persistence>

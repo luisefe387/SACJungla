@@ -1,0 +1,296 @@
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML//EN">
+<HTML>
+<HEAD>
+<meta name="GENERATOR" content="Microsoft&reg; HTML Help Workshop 4.00">
+<!-- Sitemap 1.0 -->
+</HEAD><BODY>
+<OBJECT type="text/site properties">
+	<param name="Window Styles" value="0x800025">
+</OBJECT>
+<UL>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Bienvenido">
+		<param name="Local" value="Bienvenido.html">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Preguntas Frecuentes (FAQ)">
+		<param name="Local" value="FAQ.html">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Tabla de Contenido">
+		</OBJECT>
+	<UL>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="Menu Compras">
+			<param name="Local" value="Menu Compras.html">
+			</OBJECT>
+		<UL>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="Registros">
+				</OBJECT>
+			<UL>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="Nuevo Proveedor">
+					<param name="Local" value="Registrar Proveedor.html">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="Nueva Linea de Articulos">
+					<param name="Local" value="Registrar Linea de Articulos.html">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="Nuevo Articulo">
+					<param name="Local" value="Registrar Articulo.html">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="Nuevo Medio de Pago (Prov)">
+					<param name="Local" value="Registrar Medio de Pago Proveedor.html">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="Nueva Unidad de Medida">
+					<param name="Local" value="Registrar Linea de Articulos.html">
+					</OBJECT>
+			</UL>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="Compra de Articulos">
+				<param name="Local" value="Registrar Compra de Articulos.html">
+				</OBJECT>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="Orden de Compras">
+				<param name="Local" value="Registrar Orden de Compra de Articulos.html">
+				</OBJECT>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="Egresos, Pagos y CxP">
+				</OBJECT>
+			<UL>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="Registrar un egreso/gasto con pago inmediato">
+					<param name="Local" value="Registrar Unidad de Medida.html">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="Pagar/Abonar una CXP ya registrada">
+					<param name="Local" value="Pagar Abonar una CXP ya registrada.html">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="Registrar una CXP para pago futuro">
+					<param name="Local" value="Registrar Vendedor.html">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="Registrar Anticipo a Proveedores">
+					<param name="Local" value="Registrar Anticipo a Proveedores.html">
+					</OBJECT>
+			</UL>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="Devoluciones de Proveedores (Nota debito)">
+				<param name="Local" value="Devoluciones de Clientes (Nota Crédito).html">
+				</OBJECT>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="Consultas">
+				</OBJECT>
+			<UL>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="Articulos">
+					<param name="Local" value="Consultar Articulos.html">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="Lineas de Articulos">
+					<param name="Local" value="Consultar Linea de Articulos.html">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="Proveedores">
+					<param name="Local" value="Consultar Proveedores.html">
+					</OBJECT>
+			</UL>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="Reportes">
+				</OBJECT>
+			<UL>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="Reporte de Compras">
+					<param name="Local" value="Reportar Compras.html">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="Reporte de Ordenes a Compras">
+					<param name="Local" value="Reporte de Ordenes a Compras.html">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="Reporte de Cuentas X Pagar">
+					<param name="Local" value="Reporte de Cuentas X Pagar.html">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="Reporte de Egresos (Gastos y Pagos)">
+					<param name="Local" value="Reporte de Egresos (Gastos y Pagos).html">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="Reporte de Notas Debito">
+					<param name="Local" value="Reporte de Notas Débito.html">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="Reporte de Anticipos a Proveedores">
+					<param name="Local" value="Reporte de Anticipos a Proveedores.html">
+					</OBJECT>
+			</UL>
+		</UL>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="Menu Inventario">
+			<param name="Local" value="Menu Inventario.html">
+			</OBJECT>
+		<UL>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="Entrada de Articulos al Inventario">
+				<param name="Local" value="Entrada de Articulos al Inventario.html">
+				</OBJECT>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="Salida de Articulos al Inventario">
+				<param name="Local" value="Salida de Articulos al Inventario.html">
+				</OBJECT>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="Realizar Inventario">
+				<param name="Local" value="Realizar Inventario.html">
+				</OBJECT>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="Control Inventarios">
+				<param name="Local" value="Control Inventarios.html">
+				</OBJECT>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="Kardex ElectrÃ³nico para Articulos">
+				<param name="Local" value="Kardex Electrónico para Articulos.html">
+				</OBJECT>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="Reportes">
+				</OBJECT>
+			<UL>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="Reporte de Salida de ArtÃ­culos">
+					<param name="Local" value="Reporte de Salida de Artículos.html">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="Reporte de Entrada de ArtÃ­culos">
+					<param name="Local" value="Reporte de Entrada de Artículos.html">
+					</OBJECT>
+			</UL>
+		</UL>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="Menu Ventas">
+			</OBJECT>
+		<UL>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="Registros">
+				</OBJECT>
+			<UL>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="Nuevo Tipo Cliente">
+					<param name="Local" value="Registrar Tipo Cliente.html">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="Nuevo Cliente">
+					<param name="Local" value="Registrar Cliente.html">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="Nuevo Forma de Pago (Cliente)">
+					<param name="Local" value="Nuevo Forma de Pago (Cliente).html">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="Nuevo Banco">
+					<param name="Local" value="Registrar Banco.html">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="Nuevo Vendedor">
+					<param name="Local" value="Registrar una CXP para pago futuro.html">
+					</OBJECT>
+			</UL>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="Venta de Articulos">
+				<param name="Local" value="Registar Venta de Articulos.html">
+				</OBJECT>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="Caja / Recaudos">
+				<param name="Local" value="Registrar Caja Recaudos.html">
+				</OBJECT>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="Devoluciones de Clientes (Nota Credito)">
+				<param name="Local" value="Devoluciones de Clientes (Nota Crédito).html">
+				</OBJECT>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="Cotizaciones">
+				<param name="Local" value="Registrar Cotizaciones.html">
+				</OBJECT>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="Consultas">
+				</OBJECT>
+			<UL>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="Bancos">
+					<param name="Local" value="Consultar Bancos.html">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="Clientes">
+					<param name="Local" value="Consultar Clientes.html">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="Cotizaciones">
+					<param name="Local" value="Consultar Cotizaciones.html">
+					</OBJECT>
+			</UL>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="Reportes">
+				</OBJECT>
+			<UL>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="Reporte de Ventas">
+					<param name="Local" value="Reporte de Ventas.html">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="Reporte de Cartera Pendiente">
+					<param name="Local" value="Reporte de Cartera Pendiente.html">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="Reporte de Recibos de Caja">
+					<param name="Local" value="Reporte de Recibos de Caja.html">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="Reporte de Notas Credito">
+					<param name="Local" value="Reporte de Notas Crédito.html">
+					</OBJECT>
+			</UL>
+		</UL>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="Menu Utilidades">
+			<param name="Local" value="Menu Utilidades.html">
+			</OBJECT>
+		<UL>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="Balance General">
+				<param name="Local" value="Mostrar Balance General.html">
+				</OBJECT>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="Estado de Resultados (PyG)">
+				<param name="Local" value="Mostrar Estado de resultados.html">
+				</OBJECT>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="Catalogo de Articulos con Foto">
+				<param name="Local" value="Catalogo de Articulos con Foto.html">
+				</OBJECT>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="Imprimir Documentos">
+				<param name="Local" value="Imprimir Documentos.html">
+				</OBJECT>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="Anular Documentos">
+				<param name="Local" value="Anular Documentos.html">
+				</OBJECT>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="Registar Alertas de Vencimiento">
+				<param name="Local" value="Registar Alertas de Vencimiento.html">
+				</OBJECT>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="Configurar Recordatorios">
+				<param name="Local" value="Configurar Recordatorios.html">
+				</OBJECT>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="Ver Recordatorios">
+				<param name="Local" value="Ver Recordatorios.html">
+				</OBJECT>
+		</UL>
+	</UL>
+</UL>
+</BODY></HTML>
